@@ -47,7 +47,7 @@ Rather than jumping directly into visuals, I followed a structured approach.
 
 
 ![Dashboard Making Workflow](https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/dashboard-making-workflow.png)
-- - - 
+
 ### Step 1: Defining the Stakeholder & Persona
 
 Before designing anything, I asked a simple question:
