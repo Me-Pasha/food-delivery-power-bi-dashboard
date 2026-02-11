@@ -4,7 +4,7 @@ Many online tutorials showcase beautiful dashboards. However, because the data i
 
 So I decided to start from scratch — with raw data, real inconsistencies, and a problem worth solving.
 
----
+
 
 ## 1. Data Collection
 
@@ -14,7 +14,7 @@ This dataset stood out because it focuses on delivery performance, delays, weath
 
 Instead of building another revenue dashboard, I wanted to explore operational efficiency.
 
----
+
 
 ## 2. Data Preprocessing (Python)
 
@@ -37,7 +37,7 @@ Cleaning the dataset significantly improved readability and analytical clarity. 
 
 _(You can find the full preprocessing notebook here: [https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/Data_Preprocessing_Food_Delivery_Dataset.ipynb])_
 
----
+
 
 ## 3. Designing the Dashboard
 
@@ -45,7 +45,7 @@ After cleaning the data, the next step was turning insights into a structured, s
 
 Rather than jumping directly into visuals, I followed a structured approach.
 
----
+
 ![Dashboard Making Workflow](https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/dashboard-making-workflow.png)
 - - - 
 ### Step 1: Defining the Stakeholder & Persona
@@ -73,7 +73,7 @@ Then I mapped out the types of questions they would likely ask:
 
 This clarity helped guide the entire dashboard structure.
 
----
+
 
 ### Step 2: Selecting Key Performance Indicators (KPIs)
 
@@ -90,7 +90,7 @@ To avoid overwhelming the user, I selected 3–6 focused KPIs that directly addr
 
 These KPIs serve as high-level performance indicators, allowing stakeholders to quickly assess operational efficiency before diving deeper into analysis.
 
----
+
 
 ### Step 3: Choosing Charts & Visual Hierarchy
 
@@ -111,7 +111,7 @@ To enhance user experience, I structured the dashboard using F-pattern and Z-pat
 
 The goal was not to impress with visuals — but to guide decision-making.
 
----
+
 
 ### Visual Inspiration & Design Approach
 
@@ -135,7 +135,7 @@ I researched clean, minimal dashboard designs and drew inspiration from a calm, 
 
 After several iterations, the design evolved into something uniquely mine — simple, focused, and functional.
 
----
+
 
 ## Key Takeaways from This Project
 
