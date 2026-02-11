@@ -45,7 +45,7 @@ After cleaning the data, the next step was turning insights into a structured, s
 
 Rather than jumping directly into visuals, I followed a structured approach.
 
-<img src="https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/dashboard-making-workflow.png" width="200" />
+<img src="https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/dashboard-making-workflow.png" width="450" />
 
 ### Step 1: Defining the Stakeholder & Persona
 
