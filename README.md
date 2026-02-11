@@ -118,6 +118,7 @@ The goal was not to impress with visuals — but to guide decision-making.
 | Earlier Basic Dashboard                                        | Insipiration (Dribble)                                        |
 | ---------------------------------------------------------------| ------------------------------------------------------------- |
 | ![Earlier Basic Dashboard](https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/Basic-power-bi-dashboard.png)| ![Inspiration Dribble](https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/original-food-delivery-inspiration.webp) |
+
 **FINAL**
 ![Final Dashboard](https://github.com/Me-Pasha/food-delivery-power-bi-dashboard/blob/main/Food-dashboard-Power-BI.png)
 
