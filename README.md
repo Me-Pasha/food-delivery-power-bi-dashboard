@@ -8,7 +8,7 @@ So I decided to start from scratch — with raw data, real inconsistencies, and 
 
 ## 1. Data Collection
 
-To find a dataset that genuinely interested me, I explored multiple options on Kaggle. After reviewing several possibilities, I chose the **Food Delivery Dataset**, as it offered a more operational perspective compared to traditional sales or HR dashboards.
+To find a dataset that genuinely interested me, I explored multiple options on Kaggle. After reviewing several possibilities, I chose the [**Food Delivery Dataset**](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset/data?select=train.csv), as it offered a more operational perspective compared to traditional sales or HR dashboards.
 
 This dataset stood out because it focuses on delivery performance, delays, weather impact, and customer ratings — all critical components of logistics and supply chain analytics.
 
